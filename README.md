@@ -13,6 +13,8 @@ Social Connect App is a feature-rich social media application created with the L
 
 <img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/e133006e-c6a0-462e-b2fe-6eddea787a80" height="100%">
 
+<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/fa36aefc-e4ee-4919-bdd0-05785d035af7" width="45%" height="100%">
+
 
 ## To run project
 1. run artisan update and atisan install
