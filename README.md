@@ -7,11 +7,11 @@ Social Connect App is a feature-rich social media application created with the L
 - Like, comment post
 - Friends and Connections
 
-<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/8cf05fe0-dc27-4517-a619-b663b21c9be1" width="30%" height="100%">
+<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/8cf05fe0-dc27-4517-a619-b663b21c9be1" width="50%" height="100%">
 
-<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/e133006e-c6a0-462e-b2fe-6eddea787a80" width="30%" height="100%">
+<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/da095392-08dc-44fb-89e0-9466c4a397e0" width="50%" height="100%">
 
-<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/da095392-08dc-44fb-89e0-9466c4a397e0" width="30%" height="100%">
+<img src="https://github.com/phamtrongsang11/Social-Connect-App/assets/101312630/e133006e-c6a0-462e-b2fe-6eddea787a80" height="100%">
 
 
 ## To run project
